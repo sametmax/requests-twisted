@@ -16,7 +16,7 @@ be used transparently with twisted by defering blocking calls to threads.
 """
 
 __title__ = 'requests-twisted'
-__version__ = '0.1'
+__version__ = '0.1.1'
 __author__ = 'Sam et Max'
 __license__ = 'Zlib'
 

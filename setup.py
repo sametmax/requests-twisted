@@ -4,14 +4,14 @@ from setuptools import setup
 
 setup(
     name='requests-twisted',
-    version='0.1',
+    version='0.1.1',
     description='Twisted adapter for the requests library.',
     long_description=open('README.rst').read(),
     author='Sam et Max',
     author_email='lesametlemax@gmail.com',
     include_package_data=True,
     py_modules=['requests_twisted'],
-    install_requires=['twisted'],
+    install_requires=['twisted', 'requests'],
     license='Zlib Licence',
     url='https://github.com/sametmax/requests-twisted',
     zip_safe=False,
