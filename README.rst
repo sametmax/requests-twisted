@@ -1,3 +1,16 @@
+DEPRECATION WARNING
+====================
+
+.. WARNING::
+
+    There is a much better lib than this one for the job : txrequests_.
+
+    You are now invited to use this instead.
+
+
+If I have any improvements to make, I'll make them to txrequests and not here.
+
+
 Twisted adapter for the requests library
 ============================================
 
@@ -51,3 +64,4 @@ Licence : Zlib
 
 .. _`requests`: https://github.com/kennethreitz/requests
 .. _`Twisted`: http://twistedmatrix.com
+.. _`txrequest`: https://pypi.python.org/pypi/txrequests

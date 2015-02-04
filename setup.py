@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='requests-twisted',
-    version='0.1.1',
+    version='0.1.2',
     description='Twisted adapter for the requests library.',
     long_description=open('README.rst').read(),
     author='Sam et Max',
