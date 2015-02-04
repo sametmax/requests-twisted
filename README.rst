@@ -3,7 +3,7 @@ DEPRECATION WARNING
 
 .. WARNING::
 
-    There is a much better lib than this one for the job : txrequests_.
+    There is a much better lib than this one for the job: txrequests_ .
 
     You are now invited to use this instead.
 
@@ -64,4 +64,4 @@ Licence : Zlib
 
 .. _`requests`: https://github.com/kennethreitz/requests
 .. _`Twisted`: http://twistedmatrix.com
-.. _`txrequest`: https://pypi.python.org/pypi/txrequests
+.. _`txrequests`: https://pypi.python.org/pypi/txrequests
