@@ -15,7 +15,7 @@ Twisted adapter for the requests library
 ============================================
 
 Tiny add-on for the requests_ HTTP library so it can
-be used transparently with Twisted_ by defering blocking calls to threads.
+be used transparently with Twisted_ by deferring blocking calls to threads.
 
 It just wraps all requests in deferToThread, really.
 
